@@ -1,0 +1,9 @@
+-- OUTPUTs avg bath and bedrooms for city property types, city name property type
+
+SELECT 
+  city, 
+  property_type,
+  AVG(bathrooms) AS avg_num_baths,
+  AVG(bedrooms) AS avg_num_bedrooms
+FROM airbnb_search_details
+GROUP BY city, property_type
