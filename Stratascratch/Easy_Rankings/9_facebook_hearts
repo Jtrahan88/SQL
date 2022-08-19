@@ -1,0 +1,13 @@
+-- outputs: All info inf facebook posts table
+-- show all post that have been reated to with a heart
+
+SELECT 
+  DISTINCT fp.post_id,
+  fp.poster,
+  fp.post_text,
+  fp.post_keywords,
+  fp.post_date
+FROM facebook_posts AS fp
+JOIN facebook_reactions AS fr
+  ON fp.post_id = fr.post_id
+WHERE fr.reaction = 'heart';
