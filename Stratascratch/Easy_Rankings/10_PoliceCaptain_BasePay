@@ -1,0 +1,12 @@
+-- Outputs: employee name, and pay
+-- find base pay fo Police Captains
+
+-- SELECT
+--   employeename,
+--   basepay
+-- FROM sf_public_salaries
+-- WHERE jobtitle = 'Police Captain'
+
+SELECT *
+FROM sf_public_salaries
+WHERE jobtitle = 'CAPTAIN III (POLICE DEPARTMENT)'
