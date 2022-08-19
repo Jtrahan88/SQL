@@ -22,4 +22,4 @@
 * **Question:**
 > *Find all Lyft drivers who earn either equal to or less than 30k USD or equal to or more than 70k USD.
 Output all details related to retrieved records.
-*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/3_Customer%20Details)
+*  [Solution](https://github.com/Jtrahan88/SQL/new/main/Stratascratch)
