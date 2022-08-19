@@ -1,0 +1,10 @@
+-- count time artist appeared on ranking list
+-- outputs: artis name, and counts
+-- order by counts DESC
+
+SELECT 
+  artist,
+  COUNT(*) AS ranked_counts
+FROM spotify_worldwide_daily_song_ranking
+GROUP BY artist
+ORDER BY ranked_counts DESC;
