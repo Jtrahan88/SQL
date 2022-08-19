@@ -5,6 +5,8 @@
 >   and current salary. Order your list by employee ID in ascending order.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/1_Finding%20Updated%20Records)
 a <br />
+b <br />
+c
 
 [2_Bikes Last Used](https://platform.stratascratch.com/coding/10176-bikes-last-used?code_type=1):
 * **Question:**
