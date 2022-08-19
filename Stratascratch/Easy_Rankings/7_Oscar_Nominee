@@ -5,4 +5,4 @@ SELECT
   COUNT(nominee) AS num_nominated
 FROM oscar_nominees
 WHERE nominee = 'Abigail Breslin'
-GROUP BY nominee
+GROUP BY nominee;
