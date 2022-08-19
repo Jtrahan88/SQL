@@ -38,3 +38,35 @@ Output the library code.
 Output the artist name along with the corresponding number of occurrences.
 Order records by the number of occurrences in descending order.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/6_Spotify_ranked_artist)
+
+[7_Oscar_Nominee](https://platform.stratascratch.com/coding/10128-count-the-number-of-movies-that-abigail-breslin-nominated-for-oscar?code_type=1):
+* **Question:**
+> * Find how many times each artist appeared on the Spotify ranking list
+Output the artist name along with the corresponding number of occurrences.
+Order records by the number of occurrences in descending order.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/7_Oscar_Nominee)
+
+
+[8_Churro_Activity_Date](https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1):
+* **Question:**
+> * Find the activity date and the pe_description of facilities with the name 'STREET CHURROS' and with a score of less than 95 points.
+Order records by the number of occurrences in descending order.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/8_Churro_Activity_Date)
+
+
+[9_facebook_hearts]([https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=1):
+* **Question:**
+> * Find all posts which were reacted to with a heart. For such posts output all columns from facebook_posts table.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/9_facebook_hearts)
+
+
+[10_PoliceCaptain_BasePay](https://platform.stratascratch.com/coding/9972-find-the-base-pay-for-police-captains?code_type=1):
+* **Question:**
+> * Find the base pay for Police Captains. Output the employee name along with the corresponding base pay.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/10_PoliceCaptain_BasePay)
+
+
+[11_AVG_bed_baths](https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=1):
+* **Question:**
+> * Find the average number of bathrooms and bedrooms for each city’s property types. Output the result along with the city name and the property type.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/11_AVG_bed_baths)
