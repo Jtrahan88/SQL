@@ -1,0 +1,10 @@
+-- OUTPUTs: avg popularity of hack per office location, location
+
+SELECT 
+  fe.location,
+  AVG(fh.popularity) AS avg_popularity
+FROM facebook_employees AS fe
+FULL JOIN facebook_hack_survey AS fh
+  ON fe.id = fh.employee_id
+WHERE fe.location IS NOT NULL
+GROUP BY fe.location;
