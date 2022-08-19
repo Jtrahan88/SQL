@@ -6,4 +6,4 @@ SELECT
   AVG(bathrooms) AS avg_num_baths,
   AVG(bedrooms) AS avg_num_bedrooms
 FROM airbnb_search_details
-GROUP BY city, property_type
+GROUP BY city, property_type;
