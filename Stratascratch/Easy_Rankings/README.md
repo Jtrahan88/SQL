@@ -70,3 +70,13 @@ Order records by the number of occurrences in descending order.
 * **Question:**
 > * Find the average number of bathrooms and bedrooms for each city’s property types. Output the result along with the city name and the property type.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/11_AVG_bed_baths)
+
+
+[12_Order_Details](https://platform.stratascratch.com/coding/9913-order-details?code_type=1):
+* **Question:**
+> * Find order details made by Jill and Eva.
+Consider the Jill and Eva as first names of customers.
+Output the order date, details and cost along with the first name.
+Order records based on the customer id in ascending order.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/11_AVG_bed_baths)
+
