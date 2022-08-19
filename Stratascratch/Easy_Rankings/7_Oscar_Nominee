@@ -1,0 +1,8 @@
+-- how many movies did abigail get nominated for an oscar
+
+SELECT 
+  nominee,
+  COUNT(nominee) AS num_nominated
+FROM oscar_nominees
+WHERE nominee = 'Abigail Breslin'
+GROUP BY nominee
