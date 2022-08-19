@@ -16,3 +16,10 @@
 * **Question:**
 > * Find the last time each bike was in use. Output both the bike number and the date-timestamp of the bike's last use (i.e., the date-time the bike was returned). Order the results by bikes that were most recently used.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/3_Customer%20Details)
+
+
+[4_Lyft Driver Wages](https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=1):
+* **Question:**
+> *Find all Lyft drivers who earn either equal to or less than 30k USD or equal to or more than 70k USD.
+Output all details related to retrieved records.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/3_Customer%20Details)
