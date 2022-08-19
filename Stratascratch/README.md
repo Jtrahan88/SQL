@@ -11,3 +11,8 @@
 > * Find the last time each bike was in use. Output both the bike number and the date-timestamp of the bike's last use (i.e., the date-time the bike was returned). Order the results by bikes that were most recently used.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/2_Bikes%20Last%20Used)
 
+
+[3_Customer Details](https://platform.stratascratch.com/coding/9891-customer-details?code_type=1):
+* **Question:**
+> * Find the last time each bike was in use. Output both the bike number and the date-timestamp of the bike's last use (i.e., the date-time the bike was returned). Order the results by bikes that were most recently used.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/2_Bikes%20Last%20Used)
