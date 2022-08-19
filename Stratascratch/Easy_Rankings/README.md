@@ -20,6 +20,13 @@
 
 [4_Lyft Driver Wages](https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=1):
 * **Question:**
-> *Find all Lyft drivers who earn either equal to or less than 30k USD or equal to or more than 70k USD.
+> * Find all Lyft drivers who earn either equal to or less than 30k USD or equal to or more than 70k USD.
 Output all details related to retrieved records.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/4_Lyft%20Driver%20Wages)
+
+
+[5_libraries who haven't provided the email address](https://platform.stratascratch.com/coding/9924-find-libraries-who-havent-provided-the-email-address-in-2016-but-their-notice-preference-definition-is-set-to-email?code_type=1):
+* **Question:**
+> * Find libraries who haven't provided the email address in circulation year 2016 but their notice preference definition is set to email.
+Output the library code.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/4_Lyft%20Driver%20Wages)
