@@ -25,8 +25,16 @@ Output all details related to retrieved records.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/4_Lyft%20Driver%20Wages)
 
 
-[5_libraries who haven't provided the email address](https://platform.stratascratch.com/coding/9924-find-libraries-who-havent-provided-the-email-address-in-2016-but-their-notice-preference-definition-is-set-to-email?code_type=1):
+[5_libraries_No_email](https://platform.stratascratch.com/coding/9924-find-libraries-who-havent-provided-the-email-address-in-2016-but-their-notice-preference-definition-is-set-to-email?code_type=1):
 * **Question:**
 > * Find libraries who haven't provided the email address in circulation year 2016 but their notice preference definition is set to email.
 Output the library code.
-*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/4_Lyft%20Driver%20Wages)
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/5_libraries_No_email)
+
+
+[6_Spotify_ranked_artist](https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=1):
+* **Question:**
+> * Find how many times each artist appeared on the Spotify ranking list
+Output the artist name along with the corresponding number of occurrences.
+Order records by the number of occurrences in descending order.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/6_Spotify_ranked_artist)
