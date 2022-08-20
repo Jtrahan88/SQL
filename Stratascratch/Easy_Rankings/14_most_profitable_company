@@ -1,0 +1,11 @@
+-- most profibale company 
+-- outputs company with continent
+
+SELECT 
+  company,
+  continent
+FROM forbes_global_2010_2014
+GROUP BY company, continent, profits
+HAVING profits = MAX(profits)
+ORDER BY profits DESC
+LIMIT 1;
