@@ -90,4 +90,8 @@ Output the location along with the average popularity.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/13_Popularity_of_Hack)
 ---
 
-
+[14_most_profitable_company](https://platform.stratascratch.com/coding/9663-find-the-most-profitable-company-in-the-financial-sector-of-the-entire-world-along-with-its-continent?code_type=1):
+* **Question:**
+> * Find the most profitable company from the financial sector. Output the result along with the continent.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/14_most_profitable_company)
+---
