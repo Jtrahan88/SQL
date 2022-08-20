@@ -1,0 +1,16 @@
+--  OUTPUTs: deparment, firstname, salary of empployees, avg salary in department
+-- Companre avg deparment to employees salary
+
+SELECT 
+ e.department,
+ e.first_name,
+ e.salary,
+ sub.avg_department_saraly
+FROM employee AS e
+JOIN
+    (SELECT 
+      department,
+      AVG(salary) AS avg_department_saraly
+    FROM employee
+    GROUP BY department) sub
+ON sub.department = e.department
