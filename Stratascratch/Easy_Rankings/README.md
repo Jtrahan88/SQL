@@ -95,3 +95,11 @@ Output the location along with the average popularity.
 > * Find the most profitable company from the financial sector. Output the result along with the continent.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/14_most_profitable_company)
 ---
+
+[16_num_MacBookPro_events](https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=1):
+* **Question:**
+> * Count the number of user events performed by MacBookPro users.
+Output the result along with the event name.
+Sort the result based on the event count in the descending order.
+*  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/16_num_MacBookPro_events)
+---
