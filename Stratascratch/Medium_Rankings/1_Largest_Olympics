@@ -1,0 +1,9 @@
+-- OUTPUTs: Olympics num of athletes
+-- find the highest number of athletes in teh Olympics
+-- Olympics is both year adn season
+
+SELECT  games,  COUNT(DISTINCT id) num_athletes
+FROM olympics_athletes_events
+GROUP BY games
+ORDER BY num_athletes DESC
+LIMIT 1;
