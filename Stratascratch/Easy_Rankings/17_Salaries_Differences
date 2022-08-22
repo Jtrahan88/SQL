@@ -1,5 +1,5 @@
 -- 2 solutions for teh same answer:
-
+-- OUTPUTs: ABS() different between highest saleries in marketing adn engineering deparments:
 1) 
 SELECT
   ABS((SELECT MAX(salary)
