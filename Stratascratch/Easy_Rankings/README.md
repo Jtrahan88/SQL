@@ -103,3 +103,9 @@ Output the result along with the event name.
 Sort the result based on the event count in the descending order.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/16_num_MacBookPro_events)
 ---
+
+[17_Salaries_Differences](https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=1):
+* **Question:**
+> * Write a query that calculates the difference between the highest salaries found in the marketing and engineering departments. Output just the absolute difference in salaries.
+*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/17_Salaries_Differences)
+---
