@@ -11,3 +11,5 @@ Output the result along with the corresponding company name.
 Sort the result based on profits in descending order.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/2_Most_Profitable_Companies)
 ---
+
+
