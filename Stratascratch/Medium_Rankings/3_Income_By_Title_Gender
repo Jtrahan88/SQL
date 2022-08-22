@@ -1,0 +1,19 @@
+-- OUTPUTs: employee title, gender, avg total compensation
+-- employee can have more than one bonus 
+-- ignore employees who did not have bonus
+-- Total compensation = salary + bonus
+
+SELECT 
+  se.employee_title,
+  se.sex,
+  AVG(se.salary+sub1.total_compensation) AS avg_comp
+  FROM sf_employee AS se
+  INNER JOIN
+        (SELECT 
+          worker_ref_id AS wrk_id,
+          SUM(sb.bonus) AS total_compensation
+        FROM sf_bonus AS sb
+        WHERE sb.bonus IS NOT NULL
+        GROUP BY  wrk_id) sub1
+  ON sub1.wrk_id = se.id
+  GROUP BY 1,2;
