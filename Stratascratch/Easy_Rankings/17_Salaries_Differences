@@ -13,7 +13,7 @@ WHERE department = 'marketing') -
 FROM db_employee as e
 JOIN db_dept as d
   ON e.department_id = d.id
-WHERE department = 'engineering')) AS salary_difference
+WHERE department = 'engineering')) AS salary_difference;
 
 
 AND 2)
@@ -25,4 +25,4 @@ SELECT
     WHEN d.department = 'marketing' THEN salary END) - MAX(CASE WHEN d.department = 'engineering' THEN salary END)) AS salary_difference
  FROM db_employee AS e
  JOIN db_dept AS d
- ON e.department_id = d.id
+ ON e.department_id = d.id;
