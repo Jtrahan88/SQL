@@ -59,3 +59,13 @@ The STATION table is described as follows:
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/10_Average_Population_of_Each_Continent)
 ---
 
+[11_Type_of_Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem): 
+* **Question:**
+> * Write a query identifying the type of each record in the TRIANGLES table using its three side lengths. Output one of the following statements for each record in the table:
+Equilateral: It's a triangle with  sides of equal length.
+Isosceles: It's a triangle with  sides of equal length.
+Scalene: It's a triangle with  sides of differing lengths.
+Not A Triangle: The given values of A, B, and C don't form a triangle.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/11_Type_of_Triangle)
+---
+
