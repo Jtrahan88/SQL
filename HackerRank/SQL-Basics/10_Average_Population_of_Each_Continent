@@ -1,0 +1,5 @@
+SELECT co.continent AS continent, FLOOR(AVG(ci.population)) AS pop_avg
+FROM COUNTRY AS co
+    JOIN CITY AS ci
+    ON ci.CountryCode = co.Code
+    GROUP BY 1;
