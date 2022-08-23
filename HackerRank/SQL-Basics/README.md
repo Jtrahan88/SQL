@@ -58,3 +58,4 @@ The STATION table is described as follows:
 > * Given the CITY and COUNTRY tables, query the names of all the continents (COUNTRY.Continent) and their respective average city populations (CITY.Population) rounded down to the nearest integer. 
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/10_Average_Population_of_Each_Continent)
 ---
+
