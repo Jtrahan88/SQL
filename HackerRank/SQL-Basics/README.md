@@ -53,7 +53,7 @@ The STATION table is described as follows:
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/9_Employee_Salaries)
 ---
 
-[10_Average_Population_of_Each_Continent](https://www.hackerrank.com/challenges/salary-of-employees/problem?h_r=profile): 
+[10_Average_Population_of_Each_Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem): 
 * **Question:**
 > * Given the CITY and COUNTRY tables, query the names of all the continents (COUNTRY.Continent) and their respective average city populations (CITY.Population) rounded down to the nearest integer. 
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/10_Average_Population_of_Each_Continent)
