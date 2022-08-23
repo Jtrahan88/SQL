@@ -17,7 +17,7 @@ The STATION table is described as follows:
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/3_Weather_Observation_Station_5)
 ---
 
-[4_Weather_Observation_Station_8](https://www.hackerrank.com/challenges/weather-observation-station-6/problem): 
+[4_Weather_Observation_Station_8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem): 
 * **Question:**
 > * Query the list of CITY names from STATION which have vowels (i.e., a, e, i, o, and u) as both their first and last characters. Your result cannot contain duplicates.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/4_Weather_Observation_Station_8)
