@@ -13,7 +13,7 @@
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Intermediate/2_The_Report)
 ---
 
-[3_The_PADS](https://www.hackerrank.com/challenges/the-report/problem): 
+[3_The_PADS](https://www.hackerrank.com/challenges/the-pads/problem): 
 * **Question:**
 > * Generate the following two result sets:
 > Query an alphabetically ordered list of all names in OCCUPATIONS, immediately followed by the first letter of each profession as a parenthetical (i.e.: enclosed in parentheses). For example: AnActorName(A), ADoctorName(D), AProfessorName(P), and ASingerName(S).
