@@ -35,7 +35,7 @@ The STATION table is described as follows:
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/6_Weather_Observation_Station_12)
 ---
 
-[7_Higher_Than_75_Marks](https://www.hackerrank.com/challenges/weather-observation-station-12/problem): 
+[7_Higher_Than_75_Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem?h_r=profile): 
 * **Question:**
 > * Query the Name of any student in STUDENTS who scored higher than  Marks. Order your output by the last three characters of each name. If two or more students both have names ending in the same last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending ID.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/7_Higher_Than_75_Marks)
