@@ -34,3 +34,22 @@ The STATION table is described as follows:
 > * Query the list of CITY names from STATION that do not start with vowels and do not end with vowels. Your result cannot contain duplicates.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/6_Weather_Observation_Station_12)
 ---
+
+[7_Higher_Than_75_Marks](https://www.hackerrank.com/challenges/weather-observation-station-12/problem): 
+* **Question:**
+> * Query the Name of any student in STUDENTS who scored higher than  Marks. Order your output by the last three characters of each name. If two or more students both have names ending in the same last three characters (i.e.: Bobby, Robby, etc.), secondary sort them by ascending ID.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/7_Higher_Than_75_Marks)
+---
+
+[8_Employee_Names](https://www.hackerrank.com/challenges/name-of-employees/problem): 
+* **Question:**
+> * Write a query that prints a list of employee names (i.e.: the name attribute) from the Employee table in alphabetical order.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/8_Employee_Names)
+---
+
+[9_Employee_Salaries](https://www.hackerrank.com/challenges/name-of-employees/problem): 
+* **Question:**
+> * Write a query that prints a list of employee names (i.e.: the name attribute) for employees in Employee having a salary greater than 2000 per month who have been employees for less than 10 months. Sort your result by ascending employee_id.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/9_Employee_Salaries)
+---
+
