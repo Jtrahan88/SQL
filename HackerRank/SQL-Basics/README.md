@@ -47,7 +47,7 @@ The STATION table is described as follows:
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/8_Employee_Names)
 ---
 
-[9_Employee_Salaries](https://www.hackerrank.com/challenges/name-of-employees/problem): 
+[9_Employee_Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem?h_r=profile): 
 * **Question:**
 > * Write a query that prints a list of employee names (i.e.: the name attribute) for employees in Employee having a salary greater than 2000 per month who have been employees for less than 10 months. Sort your result by ascending employee_id.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/9_Employee_Salaries)
