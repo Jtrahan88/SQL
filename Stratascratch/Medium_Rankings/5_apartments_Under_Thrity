@@ -1,0 +1,13 @@
+--  OUTPUTs: nationality with number of apartments
+-- count() num of apartments owned by people under 30
+-- ORDER BY count of apartments in DESC
+
+SELECT 
+  h.nationality,
+  COUNT(DISTINCT u.unit_id) AS num_apartments
+FROM airbnb_hosts AS h
+INNER JOIN airbnb_units AS u
+ ON h.host_id = u.host_id
+WHERE age < 30 AND unit_type = 'Apartment'
+GROUP BY h.nationality
+ORDER BY num_apartments DESC;
