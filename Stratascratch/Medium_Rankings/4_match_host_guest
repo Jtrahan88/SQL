@@ -1,0 +1,9 @@
+-- OUTPUTs: host ID, guest id of matched pair
+-- find host and match that pair with same gender and nationality
+
+SELECT 
+  DISTINCT ah.host_id,
+  ag.guest_id
+FROM airbnb_hosts AS ah
+INNER JOIN airbnb_guests AS ag
+  ON ah.nationality = ag.nationality AND ah.gender = ag.gender;
