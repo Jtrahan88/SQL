@@ -34,3 +34,12 @@ Output the nationality along with the number of apartments.
 Sort records by the apartments count in descending order.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/5_apartments_Under_Thrity)
 ---
+
+[6_winery_aroma](https://platform.stratascratch.com/coding/10026-find-all-wineries-which-produce-wines-by-possessing-aromas-of-plum-cherry-rose-or-hazelnut?code_type=1): 
+* **Question:**
+> * Find all wineries which produce wines by possessing aromas of plum, cherry, rose, or hazelnut. To make it more simple, look only for singular form of the mentioned aromas. Output unique winery values only.
+* additonal research was needed(This was hard):
+> * [~ sysmbol](https://www.postgresql.org/docs/current/functions-matching.html)
+> * [\y sysmbol](https://www.postgresql.org/docs/current/functions-matching.html)
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/6_winery_aroma)
+---
