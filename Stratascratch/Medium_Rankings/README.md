@@ -19,3 +19,11 @@ Sort the result based on profits in descending order.
 Output the employee title, gender (i.e., sex), along with the average total compensation.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/3_Income_By_Title_Gender)
 ---
+
+[4_match_host_guest](https://platform.stratascratch.com/coding/10078-find-matching-hosts-and-guests-in-a-way-that-they-are-both-of-the-same-gender-and-nationality?code_type=1): 
+* **Question:**
+> * Find matching hosts and guests pairs in a way that they are both of the same gender and nationality.
+Output the host id and the guest id of matched pair.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/4_match_host_guest)
+---
+
