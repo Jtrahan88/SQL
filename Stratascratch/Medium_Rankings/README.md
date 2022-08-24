@@ -27,3 +27,10 @@ Output the host id and the guest id of matched pair.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/4_match_host_guest)
 ---
 
+[5_apartments_Under_Thrity](https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?code_type=1): 
+* **Question:**
+> * Find the number of apartments per nationality that are owned by people under 30 years old.
+Output the nationality along with the number of apartments.
+Sort records by the apartments count in descending order.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/5_apartments_Under_Thrity)
+---
