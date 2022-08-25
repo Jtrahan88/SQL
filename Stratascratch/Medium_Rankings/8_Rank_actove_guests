@@ -1,0 +1,14 @@
+-- OUTPUTs: rank, guest_id, num of messeages
+-- rank guest based on # of messages sent
+-- guest with same num of messages get same rank
+-- do not skip rankings if preceding ranks are identical
+-- ORDER BY highest num of messages DESC
+
+SELECT
+  DENSE_RANK() OVER(ORDER BY SUM(n_messages) DESC) AS ranking,
+  id_guest,
+  SUM(n_messages) AS total_messages
+
+FROM airbnb_contacts
+GROUP BY id_guest
+ORDER BY total_messages DESC;
