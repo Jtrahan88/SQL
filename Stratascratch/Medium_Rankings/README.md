@@ -51,3 +51,13 @@ Output the rank, group name, and song name but do not show the same song twice.
 Sort the result based on the year_rank in ascending order.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/7_top_ten_ranked_songs)
 ---
+
+[8_Rank_actove_guests](https://platform.stratascratch.com/coding/10159-ranking-most-active-guests?code_type=1): 
+* **Question:**
+> * Rank guests based on the number of messages they've exchanged with the hosts. Guests with the same number of messages as other guests should have the same rank. Do not skip rankings if the preceding rankings are identical.
+Output the rank, guest id, and number of total messages they've sent. Order by the highest number of total messages first.
+* additonal research was needed
+> * [Different postgresSQL RANK functions](https://www.postgresqltutorial.com/?s=RANK)
+> * [DENSE_RANK](https://www.postgresqltutorial.com/postgresql-window-function/postgresql-dense_rank-function/)
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/8_Rank_actove_guests)
+---
