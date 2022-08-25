@@ -61,3 +61,10 @@ Output the rank, guest id, and number of total messages they've sent. Order by t
 > * [DENSE_RANK](https://www.postgresqltutorial.com/postgresql-window-function/postgresql-dense_rank-function/)
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/8_Rank_actove_guests)
 ---
+
+[9_Top_busniesses_reviews](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=1): 
+* **Question:**
+> *Find the top 5 businesses with most reviews. Assume that each row has a unique business_id such that the total reviews for each business is listed on each row. Output the business name along with the total number of reviews and order your results by the total reviews in descending order.
+* additonal research was needed
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/9_Top_busniesses_reviews)
+---
