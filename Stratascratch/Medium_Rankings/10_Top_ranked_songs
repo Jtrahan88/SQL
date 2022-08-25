@@ -1,0 +1,10 @@
+--  OUTPUTs: track name, # of times it ranked at top
+-- ORDER BY num of time song was in top position DESC
+
+SELECT 
+  trackname, 
+  COUNT(position) rankings
+FROM spotify_worldwide_daily_song_ranking
+WHERE position = 1
+GROUP BY trackname
+ORDER BY rankings DESC;
