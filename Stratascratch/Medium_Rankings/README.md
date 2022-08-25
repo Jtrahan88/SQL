@@ -43,3 +43,11 @@ Sort records by the apartments count in descending order.
 > * [\y sysmbol](https://www.postgresql.org/docs/current/functions-matching.html)
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/6_winery_aroma)
 ---
+
+[7_top_ten_ranked_songs](https://platform.stratascratch.com/coding/9650-find-the-top-10-ranked-songs-in-2010?code_type=1): 
+* **Question:**
+> * What were the top 10 ranked songs in 2010?
+Output the rank, group name, and song name but do not show the same song twice.
+Sort the result based on the year_rank in ascending order.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/7_top_ten_ranked_songs)
+---
