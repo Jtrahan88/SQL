@@ -1,0 +1,8 @@
+-- OUTPUTS: type, rate of processed tickets
+--  total process TRUE / total counts
+
+SELECT
+    type,
+      AVG(CASE WHEN processed = 'TRUE' THEN 1 ELSE 0 END) AS rate
+FROM facebook_complaints
+GROUP BY type
