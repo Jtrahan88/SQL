@@ -1,0 +1,12 @@
+-- OUTPUTs: busness name, total reviews
+-- find top 5 business with most revviews
+-- uniwue business id
+-- ORDER BY total reviews DESC
+
+SELECT 
+  DISTINCT name,
+  SUM(review_count) AS total_reviews
+FROM yelp_business
+GROUP BY name
+ORDER BY total_reviews DESC
+LIMIT 5;
