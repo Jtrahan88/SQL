@@ -73,3 +73,9 @@ Output the rank, guest id, and number of total messages they've sent. Order by t
 > * Find songs that have ranked in the top position. Output the track name and the number of times it ranked at the top. Sort your records by the number of times the song was in the top position in descending order.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/10_Top_ranked_songs)
 ---
+
+[11_Rate_by_type](https://platform.stratascratch.com/coding/9781-find-the-rate-of-processed-tickets-for-each-type?code_type=1): 
+* **Question:**
+> * Find the rate of processed tickets for each type.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/11_Rate_by_type)
+---
