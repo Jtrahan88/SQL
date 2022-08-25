@@ -64,7 +64,12 @@ Output the rank, guest id, and number of total messages they've sent. Order by t
 
 [9_Top_busniesses_reviews](https://platform.stratascratch.com/coding/10048-top-businesses-with-most-reviews?code_type=1): 
 * **Question:**
-> *Find the top 5 businesses with most reviews. Assume that each row has a unique business_id such that the total reviews for each business is listed on each row. Output the business name along with the total number of reviews and order your results by the total reviews in descending order.
-* additonal research was needed
+> * Find the top 5 businesses with most reviews. Assume that each row has a unique business_id such that the total reviews for each business is listed on each row. Output the business name along with the total number of reviews and order your results by the total reviews in descending order.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/9_Top_busniesses_reviews)
+---
+
+[10_Top_ranked_songs](https://platform.stratascratch.com/coding/9991-top-ranked-songs?code_type=1): 
+* **Question:**
+> * Find songs that have ranked in the top position. Output the track name and the number of times it ranked at the top. Sort your records by the number of times the song was in the top position in descending order.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/10_Top_ranked_songs)
 ---
