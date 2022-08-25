@@ -10,3 +10,4 @@ FROM yelp_business
 GROUP BY name
 ORDER BY total_reviews DESC
 LIMIT 5;
+
