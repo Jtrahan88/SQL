@@ -1,0 +1,13 @@
+-- OUTPUTs: rank, group name, song name but no duplicates
+-- find top 10 ranked songs in 2010
+-- ORDER BY year ASC
+
+SELECT
+  DISTINCT year_rank,
+  group_name,
+  song_name
+
+FROM billboard_top_100_year_end
+WHERE year = 2010
+ORDER BY year_rank
+LIMIT 10;
