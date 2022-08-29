@@ -1,0 +1,7 @@
+--  OUTPUTs: SUM of all values in LAT_N and LONG_W
+-- ROUND 2 decimals places
+
+SELECT
+  ROUND(SUM(lat_n), 2),
+  ROUND(SUM(long_w), 2)
+FROM station;
