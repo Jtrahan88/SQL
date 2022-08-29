@@ -111,4 +111,8 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/18_Correct_Mistake)
 ---
 
-
+[19_Count_MAXSalaray](https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true): 
+* **Question:**
+> * We define an employee's total earnings to be their monthly  salary x months worked, and the maximum total earnings to be the maximum total earnings for any employee in the Employee table. Write a query to find the maximum total earnings for all employees as well as the total number of employees who have maximum total earnings. Then print these values as  2 space-separated integers.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/19_Count_MAXSalaray)
+---
