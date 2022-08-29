@@ -124,3 +124,9 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 > The sum of all values in LONG_W rounded to a scale of  decimal places.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/20_SumBy_ColumnsName)
 ---
+
+[21_SUM_lat_n](https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen): 
+* **Question:**
+> * Query the sum of Northern Latitudes (LAT_N) from STATION having values greater than 38.7880  and less than  137.2345. Truncate your answer to  4 decimal places.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/21_SUM_lat_n)
+---
