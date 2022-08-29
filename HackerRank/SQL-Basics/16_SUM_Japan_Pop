@@ -1,0 +1,6 @@
+-- OUTPUTs: SUM pop of all citying in Japan
+
+SELECT 
+  SUM(population) AS total_pop
+FROM city
+WHERE countrycode = 'JPN';
