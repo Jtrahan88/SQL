@@ -69,3 +69,8 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/11_Type_of_Triangle)
 ---
 
+[12_Count_Cities](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true): 
+* **Question:**
+> * Query a count of the number of cities in CITY having a Population larger than 100k.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/12_Count_Cities)
+---
