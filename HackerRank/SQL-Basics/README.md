@@ -92,3 +92,9 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 > * Query the average population for all cities in CITY, rounded down to the nearest integer.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/15_Round_AvgCity_Pop)
 ---
+
+[16_SUM_Japan_Pop](https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen): 
+* **Question:**
+> * Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCODE for Japan is JPN.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/16_SUM_Japan_Pop)
+---
