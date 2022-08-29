@@ -116,3 +116,11 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 > * We define an employee's total earnings to be their monthly  salary x months worked, and the maximum total earnings to be the maximum total earnings for any employee in the Employee table. Write a query to find the maximum total earnings for all employees as well as the total number of employees who have maximum total earnings. Then print these values as  2 space-separated integers.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/19_Count_MAXSalaray)
 ---
+
+[20_SumBy_ColumnsName](https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true&h_r=next-challenge&h_v=zen): 
+* **Question:**
+> * Query the following two values from the STATION table:
+> The sum of all values in LAT_N rounded to a scale of  decimal places.
+> The sum of all values in LONG_W rounded to a scale of  decimal places.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/20_SumBy_ColumnsName)
+---
