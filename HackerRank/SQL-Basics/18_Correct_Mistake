@@ -1,0 +1,6 @@
+-- OUTPUTs: Amount difference from acutal salraies adn Samanthas mistake.
+
+SELECT 
+  ROUND((AVG(salary))) - ROUND(AVG(REPLACE(salary,0,""))) AS sal_differance
+
+FROM employees
