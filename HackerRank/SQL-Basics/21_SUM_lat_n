@@ -1,0 +1,8 @@
+--  SUM LAT_N
+--  LAT_N value > 38.7880 and < 137.2345
+--  Round Your aswer to 4 decimal places
+
+SELECT
+  ROUND(SUM(LAT_N),4) AS sum_lat_n
+FROM station
+WHERE LAT_N > 38.7880 AND LAT_N < 137.2345
