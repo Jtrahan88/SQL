@@ -98,3 +98,12 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 > * Query the sum of the populations for all Japanese cities in CITY. The COUNTRYCODE for Japan is JPN.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/16_SUM_Japan_Pop)
 ---
+
+[17_Min_Max_Diff](https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen): 
+* **Question:**
+> * Query the difference between the maximum and minimum populations in CITY.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/17_Min_Max_Diff)
+---
+
+
+
