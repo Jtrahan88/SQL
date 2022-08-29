@@ -74,3 +74,10 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 > * Query a count of the number of cities in CITY having a Population larger than 100k.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/12_Count_Cities)
 ---
+
+[13_City_PopSum](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen): 
+* **Question:**
+> * Query the total population of all cities in CITY where District is California.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/13_City_PopSum)
+---
+
