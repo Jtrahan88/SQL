@@ -1,0 +1,9 @@
+-- OUTPUTs: total earnings for employees, total employees
+--  total earnings =  salary x months worked
+--  COUNT total employees
+
+SELECT CONCAT(MAX(salary * months), " ", COUNT(employee_id)) 
+FROM employee
+GROUP BY salary * months
+ORDER BY salary * months DESC
+LIMIT 1;
