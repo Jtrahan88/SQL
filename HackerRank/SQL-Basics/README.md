@@ -81,3 +81,8 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/13_City_PopSum)
 ---
 
+[14_City_AvgPop](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen): 
+* **Question:**
+> * Query the average population of all cities in CITY where District is California.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/14_City_AvgPop)
+---
