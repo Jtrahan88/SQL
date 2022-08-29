@@ -1,0 +1,5 @@
+-- Average city pop rounded to neart interger
+
+SELECT 
+  ROUND(AVG(population)) AS avg_pop
+FROM city;
