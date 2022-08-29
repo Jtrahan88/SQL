@@ -1,0 +1,6 @@
+-- OUTPUTs: number of cityes with a population over 100k
+
+SELECT 
+  COUNT(id) AS total_cities_over_100k
+FROM city
+WHERE population > 100000;
