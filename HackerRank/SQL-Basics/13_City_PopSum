@@ -1,0 +1,6 @@
+--  OUTPUTs:  total population of all citis in teh district of California
+
+SELECT 
+  SUM(population) AS total_pop
+FROM city
+WHERE district = 'California';
