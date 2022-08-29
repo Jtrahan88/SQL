@@ -86,3 +86,9 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 > * Query the average population of all cities in CITY where District is California.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/14_City_AvgPop)
 ---
+
+[15_Round_AvgCity_Pop](https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen): 
+* **Question:**
+> * Query the average population for all cities in CITY, rounded down to the nearest integer.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/15_Round_AvgCity_Pop)
+---
