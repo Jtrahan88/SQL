@@ -136,3 +136,10 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 > * Query the greatest value of the Northern Latitudes (LAT_N) from STATION that is less than . Truncate your answer to  decimal places.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/22_MAX_lat_n)
 ---
+
+[23_Weather_Observation_Station_16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true): 
+* **Question:**
+> * Query the smallest Northern Latitude (LAT_N) from STATION that is greater than 38.7780. Round your answer to  4 decimal places.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/23_Weather_Observation_Station_16)
+---
+
