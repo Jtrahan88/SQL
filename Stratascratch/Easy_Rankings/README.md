@@ -115,7 +115,7 @@ Sort the result based on the event count in the descending order.
 > * Find how many times each artist appeared on the Spotify ranking list
 Output the artist name along with the corresponding number of occurrences.
 Order records by the number of occurrences in descending order..
-*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/18_ArtistRankCounts)
+*  [Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/18_ArtistRankCounts)
 ---
 
 [19_Macbook_event_counts](https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=3):
@@ -123,13 +123,13 @@ Order records by the number of occurrences in descending order..
 > * Count the number of user events performed by MacBookPro users.
 Output the result along with the event name.
 Sort the result based on the event count in the descending order.
-*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/19_Macbook_event_counts)
+*  [Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/19_Macbook_event_counts)
 ---
 
 [20_abigail_nominated](https://platform.stratascratch.com/coding/10128-count-the-number-of-movies-that-abigail-breslin-nominated-for-oscar?code_type=3):
 * **Question:**
 > * Count the number of movies that Abigail Breslin was nominated for an oscar.
-*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/20_abigail_nominated)
+*  [Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/20_abigail_nominated)
 ---
 
 [21_Avg_Sals](https://platform.stratascratch.com/coding/9917-average-salaries?code_type=3):
