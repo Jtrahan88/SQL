@@ -1,0 +1,12 @@
+--  OUTPUTs: result and event name
+--  count event preformed by macbook pro users
+-- ORDER BY result based on event count DESC
+
+
+SELECT
+  event_name,
+  COUNT(*) AS macBook_events
+FROM playbook_events
+WHERE device = 'macbook pro'
+GROUP BY event_name
+ORDER BY macBook_events DESC;
