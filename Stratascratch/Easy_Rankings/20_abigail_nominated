@@ -1,0 +1,7 @@
+-- OUTPUTs: count of movies
+--  only mopvies Abigail Breslin was nominated for an osacar
+
+SELECT
+  COUNT(*) AS nominated_counts
+FROM oscar_nominees
+WHERE nominee = 'Abigail Breslin'
