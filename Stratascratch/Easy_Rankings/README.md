@@ -126,3 +126,8 @@ Sort the result based on the event count in the descending order.
 *  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/19_Macbook_event_counts)
 ---
 
+[20_abigail_nominated](https://platform.stratascratch.com/coding/10128-count-the-number-of-movies-that-abigail-breslin-nominated-for-oscar?code_type=3):
+* **Question:**
+> * Count the number of movies that Abigail Breslin was nominated for an oscar.
+*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/20_abigail_nominated)
+---
