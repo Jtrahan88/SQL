@@ -1,0 +1,19 @@
+-- OUTPUTs: department, first name, salary with avg salary of department
+
+WITH sal (dept,avg_sal) AS(
+    SELECT 
+      department,
+      AVG(salary)
+    FROM employee
+    GROUP BY department)
+
+SELECT 
+  department,
+  first_name,
+  last_name,
+  salary,
+  avg_sal
+FROM employee as e
+JOIN sal as s
+ON s.dept = e.department
+ORDER BY salary
