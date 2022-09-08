@@ -55,7 +55,7 @@ Order records by the number of occurrences in descending order.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/8_Churro_Activity_Date)
 ---
 
-[9_facebook_hearts]([https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=1):
+[9_facebook_hearts](https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=1):
 * **Question:**
 > * Find all posts which were reacted to with a heart. For such posts output all columns from facebook_posts table.
 *  [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/9_facebook_hearts)
