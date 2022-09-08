@@ -136,5 +136,5 @@ Sort the result based on the event count in the descending order.
 * **Question:**
 > * Compare each employee's salary with the average salary of the corresponding department.
 Output the department, first name, and salary of employees along with the average salary of that department.
-*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/21_Avg_Sals)
+*  [Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/21_Avg_Sals)
 ---
