@@ -109,3 +109,19 @@ Sort the result based on the event count in the descending order.
 > * Write a query that calculates the difference between the highest salaries found in the marketing and engineering departments. Output just the absolute difference in salaries.
 *  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/17_Salaries_Differences)
 ---
+
+[18_ArtistRankCounts](https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=3):
+* **Question:**
+> * Find how many times each artist appeared on the Spotify ranking list
+Output the artist name along with the corresponding number of occurrences.
+Order records by the number of occurrences in descending order..
+*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/18_ArtistRankCounts)
+---
+
+[18_ArtistRankCounts](https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=3):
+* **Question:**
+> * Find how many times each artist appeared on the Spotify ranking list
+Output the artist name along with the corresponding number of occurrences.
+Order records by the number of occurrences in descending order..
+*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/18_ArtistRankCounts)
+---
