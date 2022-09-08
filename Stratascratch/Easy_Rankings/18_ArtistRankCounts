@@ -1,0 +1,10 @@
+-- OUTPUTs: artist name, num of occurrences
+-- find how many time each artis appear in ranking list
+-- ORDER BY num of occurrences DESc
+
+SELECT 
+  artist,
+  COUNT(*) AS Arists_Rank_counts
+FROM spotify_worldwide_daily_song_ranking
+GROUP BY artist
+ORDER BY Arists_Rank_counts DESC;
