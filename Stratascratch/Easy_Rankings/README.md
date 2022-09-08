@@ -131,3 +131,10 @@ Sort the result based on the event count in the descending order.
 > * Count the number of movies that Abigail Breslin was nominated for an oscar.
 *  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/20_abigail_nominated)
 ---
+
+[21_Avg_Sals](https://platform.stratascratch.com/coding/9917-average-salaries?code_type=3):
+* **Question:**
+> * Compare each employee's salary with the average salary of the corresponding department.
+Output the department, first name, and salary of employees along with the average salary of that department.
+*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/21_Avg_Sals)
+---
