@@ -118,11 +118,11 @@ Order records by the number of occurrences in descending order..
 *  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/18_ArtistRankCounts)
 ---
 
-[18_ArtistRankCounts](https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=3):
+[19_Macbook_event_counts](https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=3):
 * **Question:**
-> * Find how many times each artist appeared on the Spotify ranking list
-Output the artist name along with the corresponding number of occurrences.
-Order records by the number of occurrences in descending order..
-*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/18_ArtistRankCounts)
+> * Count the number of user events performed by MacBookPro users.
+Output the result along with the event name.
+Sort the result based on the event count in the descending order.
+*  [2 Solutions](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Easy_Rankings/19_Macbook_event_counts)
 ---
 
