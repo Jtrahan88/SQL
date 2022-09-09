@@ -1,0 +1,5 @@
+-- Euclidean_Distance = dist((x, y), (a, b)) = sqrt ((x - a)² + (y - b)²)
+
+SELECT
+  ROUND(SQRT(POWER(MAX(LAT_N) - MIN(LAT_N),2) + POWER(MAX(LONG_W) - MIN(LONG_W),2)),4) AS Euclidean_Distance
+FROM station
