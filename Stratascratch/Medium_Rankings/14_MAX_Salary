@@ -1,0 +1,11 @@
+-- OUTPUTs: highest paid title OR multiple titles sharing the highest salary
+-- find titles of worker with highet salary
+
+
+SELECT
+  t.worker_title
+FROM worker AS w
+JOIN title AS t
+ON t.worker_ref_id = w.worker_id
+WHERE salary IN (SELECT MAX(salary)
+                 FROM worker)
