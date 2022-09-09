@@ -1,5 +1,5 @@
 -- Output customer details on first name, city, order detail
--- Show all customers even if no order was placed (full join)
+-- Show all customers even if no order was placed (left join)
 -- duplicates allowed
 -- sort based on firstname, order details ASC
 
@@ -9,6 +9,6 @@ SELECT
   c.city,
   o.order_details
 FROM customers AS c
-FULL JOIN orders AS o
+LEFT JOIN orders AS o
   ON c.id = o.cust_id
 ORDER BY c.first_name, o.order_details;
