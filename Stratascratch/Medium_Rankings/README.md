@@ -104,3 +104,9 @@ Output the rank, guest id, and number of total messages they've sent. Order by t
 Output the department name, employee's first name along with the corresponding salary.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/15_highest_salary_deparment)
 ---
+
+[16_Highest_order_taker](https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=3): 
+* **Question:**
+> * Find the customer with the highest daily total order cost between 2019-02-01 to 2019-05-01. If customer had more than one order on a certain day, sum the order costs on daily basis. Output customer's first name, total cost of their items, and the date.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/16_Highest_order_taker)
+---
