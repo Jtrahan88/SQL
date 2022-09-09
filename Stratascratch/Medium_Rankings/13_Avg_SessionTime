@@ -1,0 +1,21 @@
+-- OUTPUTs: user_id, avg session time
+-- Calculate avge session time
+-- time difference is between page load and page exit
+-- assume user only has 1 session per day
+-- use min page load - max page exit to calculate times
+
+WITH times AS (
+SELECT 
+  DATE(timestamp),
+  user_id,
+  MAX(IF(action = 'page_load', timestamp, NULL)) as page_load,
+  MIN(IF(action = 'page_exit', timestamp, NULL)) AS page_exit
+FROM facebook_web_log
+GROUP BY 1,2)
+
+SELECT 
+  user_id,
+  AVG(TIMESTAMPDIFF(SECOND, page_load, page_exit)) AS session_time
+FROM times
+GROUP BY user_id
+HAVING session_time IS NOT NULL 
