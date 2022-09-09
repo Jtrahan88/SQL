@@ -1,0 +1,12 @@
+-- OUTPUTs: deparment name, employee name, and salary
+-- find highest employee salary per deparment 
+
+SELECT
+  department,
+  first_name, 
+  salary
+FROM employee
+WHERE salary IN (SELECT
+                   MAX(salary)
+                 FROM employee
+                 GROUP BY department)
