@@ -110,3 +110,9 @@ Output the department name, employee's first name along with the corresponding s
 > * Find the customer with the highest daily total order cost between 2019-02-01 to 2019-05-01. If customer had more than one order on a certain day, sum the order costs on daily basis. Output customer's first name, total cost of their items, and the date.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/16_Highest_order_taker)
 ---
+
+[17_High_energy_consumption](https://platform.stratascratch.com/coding/10064-highest-energy-consumption?code_type=3): 
+* **Question:**
+> * Find the date with the highest total energy consumption from the Meta/Facebook data centers. Output the date along with the total energy consumption across all data centers.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/17_High_energy_consumption)
+---
