@@ -18,3 +18,4 @@ WHERE e.salary > m.salary
 -- Salary column holds information about employee's salary, but not about his manager's salary
 -- To fetch manager's salary, we join the table by itself with condition e.manager_id = m.id
 -- E.g. that condition joins id of Alan's manager (manager_id = 5) with a row where we have employee with that id. And that is the id of Mark (Alan's manager)
+
