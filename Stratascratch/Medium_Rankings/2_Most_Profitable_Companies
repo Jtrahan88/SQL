@@ -1,4 +1,4 @@
---OUTPUTs: 3 most profitbale companies, and company name
+-- OUTPUTs: 3 most profitbale companies, and company name
 -- ORDER BY profits DESC
 
 SELECT 
