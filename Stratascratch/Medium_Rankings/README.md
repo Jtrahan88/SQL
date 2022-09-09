@@ -116,3 +116,9 @@ Output the department name, employee's first name along with the corresponding s
 > * Find the date with the highest total energy consumption from the Meta/Facebook data centers. Output the date along with the total energy consumption across all data centers.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/17_High_energy_consumption)
 ---
+
+[18_Employee_slary_overMGMT](https://platform.stratascratch.com/coding/9894-employee-and-manager-salaries?code_type=3): 
+* **Question:**
+> * Find employees who are earning more than their managers. Output the employee's first name along with the corresponding salary.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/18_Employee_slary_overMGMT)
+---
