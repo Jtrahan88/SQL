@@ -161,3 +161,9 @@ Not A Triangle: The given values of A, B, and C don't form a triangle.
 > > *  Manhattan Distance formula: p1 at (x1, y1) and p2 at (x2, y2), it is |x1 - x2| + |y1 - y2|
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/25_Weather_Observation_Station_18)
 ---
+
+[26_Weather_Observation_Station_15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true): 
+* **Question:**
+> * Query the Western Longitude (LONG_W) for the largest Northern Latitude (LAT_N) in STATION that is less than 137.2345. Round your answer to  4 decimal places.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/HackerRank/SQL-Basics/26_Weather_Observation_Station_15)
+---
