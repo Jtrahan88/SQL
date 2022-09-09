@@ -91,3 +91,16 @@ Output the rank, guest id, and number of total messages they've sent. Order by t
 > * Calculate each user's average session time. A session is defined as the time difference between a page_load and page_exit. For simplicity, assume a user has only 1 session per day and if there are multiple of the same events on that day, consider only the latest page_load and earliest page_exit. Output the user_id and their average session time.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/13_Avg_SessionTime)
 ---
+
+[14_MAX_Salary](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=3): 
+* **Question:**
+> * Find the titles of workers that earn the highest salary. Output the highest-paid title or multiple titles that share the highest salary.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/14_MAX_Salary)
+---
+
+[15_highest_salary_deparment](https://platform.stratascratch.com/coding/9897-highest-salary-in-department?code_type=3): 
+* **Question:**
+> * Find the employee with the highest salary per department.
+Output the department name, employee's first name along with the corresponding salary.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/15_highest_salary_deparment)
+---
