@@ -85,3 +85,9 @@ Output the rank, guest id, and number of total messages they've sent. Order by t
 > * Classify each business as either a restaurant, cafe, school, or other. A restaurant should have the word 'restaurant' in the business name. For cafes, either 'cafe', 'café', or 'coffee' can be in the business name. 'School' should be in the business name for schools. All other businesses should be classified as 'other'. Output the business name and the calculated classification.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/12_Business_Type)
 ---
+
+[13_Avg_SessionTime](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=3): 
+* **Question:**
+> * Calculate each user's average session time. A session is defined as the time difference between a page_load and page_exit. For simplicity, assume a user has only 1 session per day and if there are multiple of the same events on that day, consider only the latest page_load and earliest page_exit. Output the user_id and their average session time.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/13_Avg_SessionTime)
+---
