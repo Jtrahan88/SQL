@@ -1,0 +1,15 @@
+-- OUTPUTs: customer first name, total cost of items, date
+-- find THE customer with teh highest daily order cost
+--  between 2019-02-01 to 2019-05-01
+
+
+SELECT
+ first_name,
+ SUM(total_order_cost) total_cost,
+ order_date
+FROM customers AS c
+LEFT JOIN orders AS o
+ON c.id = o.cust_id
+WHERE order_date BETWEEN '2019-02-01' AND '2019-05-01'
+GROUP BY order_date,first_name
+LIMIT 1;
