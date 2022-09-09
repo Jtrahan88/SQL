@@ -3,17 +3,19 @@
 -- ignore employees who did not have bonus
 -- Total compensation = salary + bonus
 
+WITH sub1 AS(
+    SELECT 
+      worker_ref_id AS wrk_id,
+      SUM(sb.bonus) AS total_compensation
+    FROM sf_bonus AS sb
+    WHERE sb.bonus IS NOT NULL
+    GROUP BY  wrk_id)
+
 SELECT 
   se.employee_title,
   se.sex,
   AVG(se.salary+sub1.total_compensation) AS avg_comp
   FROM sf_employee AS se
-  INNER JOIN
-        (SELECT 
-          worker_ref_id AS wrk_id,
-          SUM(sb.bonus) AS total_compensation
-        FROM sf_bonus AS sb
-        WHERE sb.bonus IS NOT NULL
-        GROUP BY  wrk_id) sub1
+  INNER JOIN sub1
   ON sub1.wrk_id = se.id
-  GROUP BY 1,2;
+  GROUP BY 1,2
