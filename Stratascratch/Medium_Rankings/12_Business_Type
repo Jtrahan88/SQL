@@ -1,0 +1,15 @@
+-- OUTPUTs: business name, calculated classification
+-- assign name based on conditions
+-- restuarant, cafe, school, other assign if in business name
+
+SELECT 
+  DISTINCT business_name, 
+  CASE
+    WHEN business_name LIKE "%School%" THEN 'school' 
+    WHEN business_name LIKE "%Restaurant%" THEN 'restaurant'
+    WHEN business_name LIKE "%Café%" THEN 'cafe'
+    WHEN business_name LIKE "%cafe%" THEN 'cafe'
+    WHEN business_name LIKE "%coffee%" THEN 'cafe'
+    ELSE 'other'
+    END AS type
+FROM sf_restaurant_health_violations
