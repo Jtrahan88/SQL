@@ -19,3 +19,4 @@ SELECT
   INNER JOIN sub1
   ON sub1.wrk_id = se.id
   GROUP BY 1,2
+
