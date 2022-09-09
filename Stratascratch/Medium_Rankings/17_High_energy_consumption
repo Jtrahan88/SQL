@@ -1,0 +1,22 @@
+--  OUTPUTs: date, total energy consumption
+-- Find date with highest total energy consumption
+
+WITH sub AS( SELECT 
+  date, consumption
+FROM fb_eu_energy AS eu
+UNION ALL
+SELECT 
+  date, consumption
+FROM fb_asia_energy AS a
+UNION ALL
+SELECT 
+  date, consumption
+FROM fb_na_energy AS na)
+
+SELECT 
+  date,
+  SUM(consumption) AS total_consumption
+FROM sub
+GROUP BY date
+ORDER BY total_consumption DESC
+LIMIT 1
