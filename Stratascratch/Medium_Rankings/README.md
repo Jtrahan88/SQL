@@ -79,3 +79,9 @@ Output the rank, guest id, and number of total messages they've sent. Order by t
 > * Find the rate of processed tickets for each type.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/11_Rate_by_type)
 ---
+
+[12_Business_Type](https://platform.stratascratch.com/coding/9726-classify-business-type?code_type=3): 
+* **Question:**
+> * Classify each business as either a restaurant, cafe, school, or other. A restaurant should have the word 'restaurant' in the business name. For cafes, either 'cafe', 'café', or 'coffee' can be in the business name. 'School' should be in the business name for schools. All other businesses should be classified as 'other'. Output the business name and the calculated classification.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/12_Business_Type)
+---
