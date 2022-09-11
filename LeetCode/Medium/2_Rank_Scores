@@ -1,0 +1,8 @@
+# OUTPUTs: scores and Rank scores
+# ties get the same rank, but rank continues on. no gaps from rank to rank
+
+
+SELECT
+  score,
+  DENSE_RANK() OVER(ORDER BY score DESC) AS "rank"
+FROM Scores;
