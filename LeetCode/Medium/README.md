@@ -13,3 +13,10 @@
 Return the result table ordered by score in descending order.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/LeetCode/Medium/2_Rank_Scores)
 ---
+
+[3_Highest_sal_InDept_byEmployee](https://leetcode.com/problems/department-highest-salary/): 
+* **Question:**
+> * Write an SQL query to find employees who have the highest salary in each of the departments.
+> Return the result table in any order.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/LeetCode/Medium/3_Highest_sal_InDept_byEmployee)
+---
