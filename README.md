@@ -42,7 +42,7 @@
 # Bash(using SQL syntax) [Building a Mario Database](https://www.freecodecamp.org/learn/relational-database/learn-relational-databases-by-building-a-mario-database/build-a-mario-database)
 * \c - This will connect to the date base we would like to enter.
 * \d <table_name> - will show information about the specific table
-* \d 0 this will check the tables inside the database
+* \d - this will check the tables inside the database
 * \l - list database, tables, columns, etc.
 * ALIASES - 
 >> * Used to give a table, or a column in a table, a temporary name.
@@ -54,7 +54,7 @@
 >> * returns TRUE if ALL of the subquery values meet the condition.
 >> * is used with SELECT, WHERE and HAVING statements.
 * ALTER DATABASE database_name RENAME TO new_database_name; - rename a data base
-* ALTER Table <table_name> ADD COLUMN <column_name> DATATYPE - This will alter teh table to add a column. We will need to label the datatype the column is.
+* ALTER Table <table_name> ADD COLUMN <column_name> DATATYPE - This will alter the table to add a column. We will need to label the datatype the column is.
 * ALTER TABLE <table_name> DROP COLUMN <column_name> - will drop a columns from a table
 * ALTER TABLE <table_name> RENAME COLUMN <column_name> TO <new_name>; - Change name of a column
 * ALTER TABLE table_name ADD PRIMARY KEY(column_name) - Add a primary key to a table
@@ -71,11 +71,11 @@
 > * WHEN condition2 THEN result2
 > * WHEN conditionN THEN resultN
 > * ELSE result
-> * END;
+> * END AS <column name>;
 
 If there is no ELSE part and no conditions are true, it returns NULL.
-* CREATE DATABASE - This will creat a database from teh terminal into postgresSQL
-* CREATE TABLE (); 0 This will create a table in the current data base
+* CREATE DATABASE - This will creat a database from the terminal into postgresSQL
+* CREATE TABLE (); - This will create a table in the current data base
 * COUNT() - function returns the number of rows that matches a specified criterion.
 * DELETE FROM table_name WHERE condition; - statement is used to delete existing records in a table. (delete the record you entered with a condition)
 * DISTINCT - statement is used to return only distinct (different) values.
@@ -169,11 +169,11 @@ If there is no ELSE part and no conditions are true, it returns NULL.
 * WHERE - clause is used to filter records.
 * Wildcard Characters -  A wildcard character is used to substitute one or more characters in a string.  Wildcard characters are used with the LIKE operator. The LIKE operator is used in a WHERE clause to search for a specified pattern in a column. Wildcard Characters in SQL Server Examples:
 >> * Symbol	| Description	| Example
->> * %	| Represents zero or more characters | bl% finds bl, black, blue, and blob
->> * _	| Represents a single character	| h_t finds hot, hat, and hit
->> * []	| Represents any single character within the brackets	| h[oa]t finds hot and hat, but not hit
->> * ^	| Represents any character not in the brackets	| h[^oa]t finds hit, but not hot and hat
->> * \-	| Represents any single character within the specified range	| c[a-b]t finds cat and cbt  
+>> >> * %	  | Represents zero or more characters | bl% finds bl, black, blue, and blob
+>> >> * _	  | Represents a single character	| h_t finds hot, hat, and hit
+>> >> * []  | Represents any single character within the brackets	| h[oa]t finds hot and hat, but not hit
+>> >> * ^	  | Represents any character not in the brackets	| h[^oa]t finds hit, but not hot and hat
+>> >> * -	  | Represents any single character within the specified range	| c[a-b]t finds cat and cbt  
 * Wildar Card examples(continued):
 >> ### All the wildcards can also be used in combinations!
 >> #### Here are some examples showing different LIKE operators with '%' and '_' wildcards:
@@ -186,4 +186,4 @@ If there is no ELSE part and no conditions are true, it returns NULL.
 >> * WHERE ContactName LIKE 'a%o'	| Finds any values that starts with "a" and ends with "o"
 
 # SQL Project(WIP)
-#### Bug in teh system waiting for a response before I can complete.
+#### Bug in the system waiting for a response before I can complete.
