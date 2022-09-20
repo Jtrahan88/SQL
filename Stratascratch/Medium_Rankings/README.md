@@ -122,3 +122,10 @@ Output the department name, employee's first name along with the corresponding s
 > * Find employees who are earning more than their managers. Output the employee's first name along with the corresponding salary.
 * [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/18_Employee_slary_overMGMT)
 ---
+
+
+[19_acceptance_rate](https://platform.stratascratch.com/coding/10285-acceptance-rate-by-date?code_type=3): 
+* **Question:**
+> * What is the overall friend acceptance rate by date? Your output should have the rate of acceptances by the date the request was sent. Order by the earliest date to latest.
+* [Solution](https://github.com/Jtrahan88/SQL/blob/main/Stratascratch/Medium_Rankings/19_acceptance_rate)
+---
