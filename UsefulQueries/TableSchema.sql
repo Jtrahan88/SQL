@@ -4,5 +4,5 @@ SELECT
 	DATA_TYPE
 FROM
   	INFORMATION_SCHEMA.COLUMNS
-    -- 'test' is teh tables name
+    -- 'test' is the tables name
 WHERE TABLE_NAME = 'test'
