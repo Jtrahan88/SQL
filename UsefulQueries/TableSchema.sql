@@ -1,0 +1,8 @@
+SELECT
+  	TABLE_NAME,
+	COLUMN_NAME,
+	DATA_TYPE
+FROM
+  	INFORMATION_SCHEMA.COLUMNS
+    -- 'test' is teh tables name
+WHERE TABLE_NAME = 'test'
